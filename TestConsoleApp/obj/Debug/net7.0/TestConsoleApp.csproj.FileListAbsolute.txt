@@ -1,0 +1,15 @@
+C:\Users\A AAKHIF ATHALLAH\Desktop\Singleton\TestConsoleApp\bin\Debug\net7.0\TestConsoleApp.exe
+C:\Users\A AAKHIF ATHALLAH\Desktop\Singleton\TestConsoleApp\bin\Debug\net7.0\TestConsoleApp.deps.json
+C:\Users\A AAKHIF ATHALLAH\Desktop\Singleton\TestConsoleApp\bin\Debug\net7.0\TestConsoleApp.runtimeconfig.json
+C:\Users\A AAKHIF ATHALLAH\Desktop\Singleton\TestConsoleApp\bin\Debug\net7.0\TestConsoleApp.dll
+C:\Users\A AAKHIF ATHALLAH\Desktop\Singleton\TestConsoleApp\bin\Debug\net7.0\TestConsoleApp.pdb
+C:\Users\A AAKHIF ATHALLAH\Desktop\Singleton\TestConsoleApp\obj\Debug\net7.0\TestConsoleApp.csproj.AssemblyReference.cache
+C:\Users\A AAKHIF ATHALLAH\Desktop\Singleton\TestConsoleApp\obj\Debug\net7.0\TestConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A AAKHIF ATHALLAH\Desktop\Singleton\TestConsoleApp\obj\Debug\net7.0\TestConsoleApp.AssemblyInfoInputs.cache
+C:\Users\A AAKHIF ATHALLAH\Desktop\Singleton\TestConsoleApp\obj\Debug\net7.0\TestConsoleApp.AssemblyInfo.cs
+C:\Users\A AAKHIF ATHALLAH\Desktop\Singleton\TestConsoleApp\obj\Debug\net7.0\TestConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\A AAKHIF ATHALLAH\Desktop\Singleton\TestConsoleApp\obj\Debug\net7.0\TestConsoleApp.dll
+C:\Users\A AAKHIF ATHALLAH\Desktop\Singleton\TestConsoleApp\obj\Debug\net7.0\refint\TestConsoleApp.dll
+C:\Users\A AAKHIF ATHALLAH\Desktop\Singleton\TestConsoleApp\obj\Debug\net7.0\TestConsoleApp.pdb
+C:\Users\A AAKHIF ATHALLAH\Desktop\Singleton\TestConsoleApp\obj\Debug\net7.0\TestConsoleApp.genruntimeconfig.cache
+C:\Users\A AAKHIF ATHALLAH\Desktop\Singleton\TestConsoleApp\obj\Debug\net7.0\ref\TestConsoleApp.dll
